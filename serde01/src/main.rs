@@ -1,6 +1,8 @@
 /**
  * serde 是rust的一个io序列化框架，先跑一个官网的例子
  * 链接：https://crates.io/crates/serde/1.0.142
+ * 文档链接：
+ * https://serde.rs/attr-flatten.html
  */
 
 use serde_derive::{Deserialize, Serialize};
