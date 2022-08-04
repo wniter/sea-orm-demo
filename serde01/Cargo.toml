@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 serde = "1.0.142"
+serde_derive = "1.0.142"
+# 这个地方解释下，对应程序中的引用
+serde_json = "1.0.0"
