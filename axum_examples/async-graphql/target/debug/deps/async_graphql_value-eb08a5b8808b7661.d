@@ -1,0 +1,10 @@
+f:\sea-orm-demo\axum_examples\async-graphql\target\debug\deps\async_graphql_value-eb08a5b8808b7661.rmeta: C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\lib.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\deserializer.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\macros.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\serializer.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\value_serde.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\variables.rs
+
+f:\sea-orm-demo\axum_examples\async-graphql\target\debug\deps\async_graphql_value-eb08a5b8808b7661.d: C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\lib.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\deserializer.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\macros.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\serializer.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\value_serde.rs C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\variables.rs
+
+C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\lib.rs:
+C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\deserializer.rs:
+C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\macros.rs:
+C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\serializer.rs:
+C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\value_serde.rs:
+C:\Users\admin\.cargo\registry\src\github.com-1ecc6299db9ec823\async-graphql-value-3.0.38\src\variables.rs:
