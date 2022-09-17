@@ -1,0 +1,13 @@
+[package]
+name = "Rustonomicondemo"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+# 连接
+# https://learnku.com/docs/nomicon/2018/brief-introduction/4702
+# https://doc.rust-lang.org/nomicon/ffi.html

@@ -9,7 +9,7 @@ hyper 性能好，偏底层，而且面向 async 设计，应用广泛，已成�
  * https://github.com/hyperium/hyper
  */
 
-use hyper::{Client, Uri};
+use hyper::{client, Uri};
 use std::str;
 
 #[tokio::main]
